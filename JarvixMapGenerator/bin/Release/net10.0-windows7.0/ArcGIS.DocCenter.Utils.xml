@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DocCenter.Utils>
+	<CrossLinks>
+		<DocSet>
+			<Language>en</Language>
+			<Product>arcgis-pro</Product>
+			<Version>3.7</Version>
+			<Path></Path>
+		</DocSet>
+	</CrossLinks>
+</DocCenter.Utils>

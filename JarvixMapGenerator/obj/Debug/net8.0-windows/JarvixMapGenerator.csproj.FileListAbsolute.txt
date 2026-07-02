@@ -1,0 +1,4 @@
+D:\Aplicaciones de Desarrollo Amazon GIS\Extencion Mapa ArcGIS Pro\JarvixMapGenerator\obj\Debug\net8.0-windows\JarvixMapGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aplicaciones de Desarrollo Amazon GIS\Extencion Mapa ArcGIS Pro\JarvixMapGenerator\obj\Debug\net8.0-windows\JarvixMapGenerator.AssemblyInfoInputs.cache
+D:\Aplicaciones de Desarrollo Amazon GIS\Extencion Mapa ArcGIS Pro\JarvixMapGenerator\obj\Debug\net8.0-windows\JarvixMapGenerator.AssemblyInfo.cs
+D:\Aplicaciones de Desarrollo Amazon GIS\Extencion Mapa ArcGIS Pro\JarvixMapGenerator\obj\Debug\net8.0-windows\JarvixMapGenerator.csproj.CoreCompileInputs.cache

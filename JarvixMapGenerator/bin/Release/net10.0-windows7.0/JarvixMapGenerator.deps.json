@@ -1,0 +1,469 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "JarvixMapGenerator/1.0.0": {
+        "dependencies": {
+          "ArcGIS.Core": "13.7.0.0",
+          "ArcGIS.Desktop.Framework": "13.7.0.0"
+        },
+        "runtime": {
+          "JarvixMapGenerator.dll": {}
+        }
+      },
+      "ArcGIS.Core/13.7.0.0": {
+        "runtime": {
+          "ArcGIS.Core.dll": {
+            "assemblyVersion": "13.7.0.0",
+            "fileVersion": "13.7.0.1901"
+          }
+        }
+      },
+      "ArcGIS.Desktop.Framework/13.7.0.0": {
+        "runtime": {
+          "ArcGIS.Desktop.Framework.dll": {
+            "assemblyVersion": "13.7.0.0",
+            "fileVersion": "13.7.0.1901"
+          }
+        }
+      },
+      "ArcGIS.Desktop.Bars.Wpf/25.1.2.0": {
+        "runtime": {
+          "ArcGIS.Desktop.Bars.Wpf.dll": {
+            "assemblyVersion": "25.1.2.0",
+            "fileVersion": "25.1.2.0"
+          }
+        }
+      },
+      "Lucene.Net/4.8.0.2": {
+        "runtime": {
+          "Lucene.Net.dll": {
+            "assemblyVersion": "4.8.0.2",
+            "fileVersion": "4.8.0.2"
+          }
+        }
+      },
+      "Lucene.Net.Analysis.Common/4.8.0.2": {
+        "runtime": {
+          "Lucene.Net.Analysis.Common.dll": {
+            "assemblyVersion": "4.8.0.2",
+            "fileVersion": "4.8.0.2"
+          }
+        }
+      },
+      "Lucene.Net.QueryParser/4.8.0.2": {
+        "runtime": {
+          "Lucene.Net.QueryParser.dll": {
+            "assemblyVersion": "4.8.0.2",
+            "fileVersion": "4.8.0.2"
+          }
+        }
+      },
+      "ArcGIS.Desktop.Shared.Wpf/25.1.2.0": {
+        "runtime": {
+          "ArcGIS.Desktop.Shared.Wpf.dll": {
+            "assemblyVersion": "25.1.2.0",
+            "fileVersion": "25.1.2.0"
+          }
+        }
+      },
+      "ArcGIS.Desktop.Docking.Wpf/25.1.2.0": {
+        "runtime": {
+          "ArcGIS.Desktop.Docking.Wpf.dll": {
+            "assemblyVersion": "25.1.2.0",
+            "fileVersion": "25.1.2.0"
+          }
+        }
+      },
+      "Google.Protobuf/3.29.3.0": {
+        "runtime": {
+          "Google.Protobuf.dll": {
+            "assemblyVersion": "3.29.3.0",
+            "fileVersion": "3.29.3.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.0.0": {
+        "runtime": {
+          "Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.3.27908"
+          }
+        }
+      },
+      "ArcGIS.Desktop.Editors.Wpf/25.1.2.0": {
+        "runtime": {
+          "ArcGIS.Desktop.Editors.Wpf.dll": {
+            "assemblyVersion": "25.1.2.0",
+            "fileVersion": "25.1.2.0"
+          }
+        }
+      },
+      "Microsoft.Xaml.Behaviors/1.1.0.0": {
+        "runtime": {
+          "Microsoft.Xaml.Behaviors.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.135.29210"
+          }
+        }
+      },
+      "Microsoft.Web.WebView2.Wpf/1.0.2277.86": {
+        "runtime": {
+          "Microsoft.Web.WebView2.Wpf.dll": {
+            "assemblyVersion": "1.0.2277.86",
+            "fileVersion": "1.0.2277.86"
+          }
+        }
+      },
+      "Microsoft.Web.WebView2.Core/1.0.2277.86": {
+        "runtime": {
+          "Microsoft.Web.WebView2.Core.dll": {
+            "assemblyVersion": "1.0.2277.86",
+            "fileVersion": "1.0.2277.86"
+          }
+        }
+      },
+      "ArcGIS.Desktop.Navigation.Wpf/25.1.2.0": {
+        "runtime": {
+          "ArcGIS.Desktop.Navigation.Wpf.dll": {
+            "assemblyVersion": "25.1.2.0",
+            "fileVersion": "25.1.2.0"
+          }
+        }
+      },
+      "ArcGIS.Desktop.Ribbon.Wpf/25.1.2.0": {
+        "runtime": {
+          "ArcGIS.Desktop.Ribbon.Wpf.dll": {
+            "assemblyVersion": "25.1.2.0",
+            "fileVersion": "25.1.2.0"
+          }
+        }
+      },
+      "ArcGIS.Desktop.SyntaxEditor.Wpf/25.1.2.0": {
+        "runtime": {
+          "ArcGIS.Desktop.SyntaxEditor.Wpf.dll": {
+            "assemblyVersion": "25.1.2.0",
+            "fileVersion": "25.1.2.0"
+          }
+        }
+      },
+      "C1.WPF.Grid/9.0.20251.1069": {
+        "runtime": {
+          "C1.WPF.Grid.dll": {
+            "assemblyVersion": "9.0.20251.1069",
+            "fileVersion": "9.0.20251.1069"
+          }
+        }
+      },
+      "C1.WPF.Core/9.0.20251.1069": {
+        "runtime": {
+          "C1.WPF.Core.dll": {
+            "assemblyVersion": "9.0.20251.1069",
+            "fileVersion": "9.0.20251.1069"
+          }
+        }
+      },
+      "ArcGIS.DocCenter.Utils/13.7.0.0": {
+        "runtime": {
+          "ArcGIS.DocCenter.Utils.dll": {
+            "assemblyVersion": "13.7.0.0",
+            "fileVersion": "13.7.0.1901"
+          }
+        }
+      },
+      "J2N/2.0.0.0": {
+        "runtime": {
+          "J2N.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      },
+      "ArcGIS.Desktop.Text.Wpf/25.1.2.0": {
+        "runtime": {
+          "ArcGIS.Desktop.Text.Wpf.dll": {
+            "assemblyVersion": "25.1.2.0",
+            "fileVersion": "25.1.2.0"
+          }
+        }
+      },
+      "C1.DataCollection/9.0.20242.209": {
+        "runtime": {
+          "C1.DataCollection.dll": {
+            "assemblyVersion": "9.0.20242.209",
+            "fileVersion": "9.0.20242.209"
+          }
+        }
+      },
+      "C1.WPF.GridControl/9.0.20251.1069": {
+        "runtime": {
+          "C1.WPF.GridControl.dll": {
+            "assemblyVersion": "9.0.20251.1069",
+            "fileVersion": "9.0.20251.1069"
+          }
+        }
+      },
+      "C1.WPF.Input/9.0.20251.1069": {
+        "runtime": {
+          "C1.WPF.Input.dll": {
+            "assemblyVersion": "9.0.20251.1069",
+            "fileVersion": "9.0.20251.1069"
+          }
+        }
+      },
+      "C1.WPF.Menu/9.0.20251.1069": {
+        "runtime": {
+          "C1.WPF.Menu.dll": {
+            "assemblyVersion": "9.0.20251.1069",
+            "fileVersion": "9.0.20251.1069"
+          }
+        }
+      },
+      "C1.WPF.DataFilter/9.0.20251.1069": {
+        "runtime": {
+          "C1.WPF.DataFilter.dll": {
+            "assemblyVersion": "9.0.20251.1069",
+            "fileVersion": "9.0.20251.1069"
+          }
+        }
+      },
+      "C1.WPF.DateTimeEditors/9.0.20251.1069": {
+        "runtime": {
+          "C1.WPF.DateTimeEditors.dll": {
+            "assemblyVersion": "9.0.20251.1069",
+            "fileVersion": "9.0.20251.1069"
+          }
+        }
+      },
+      "C1.WPF.Accordion/9.0.20251.1069": {
+        "runtime": {
+          "C1.WPF.Accordion.dll": {
+            "assemblyVersion": "9.0.20251.1069",
+            "fileVersion": "9.0.20251.1069"
+          }
+        }
+      },
+      "C1.WPF.DataCollection/9.0.20242.209": {
+        "runtime": {
+          "C1.WPF.DataCollection.dll": {
+            "assemblyVersion": "9.0.20242.209",
+            "fileVersion": "9.0.20242.209"
+          }
+        }
+      },
+      "C1.DataCollection.BindingList/9.0.20242.209": {
+        "runtime": {
+          "C1.DataCollection.BindingList.dll": {
+            "assemblyVersion": "9.0.20242.209",
+            "fileVersion": "9.0.20242.209"
+          }
+        }
+      },
+      "YamlDotNet/16.3.0.1": {
+        "runtime": {
+          "YamlDotNet.dll": {
+            "assemblyVersion": "16.3.0.1",
+            "fileVersion": "16.3.0.1"
+          }
+        }
+      },
+      "C1.WPF.ListView/9.0.20251.1069": {
+        "runtime": {
+          "C1.WPF.ListView.dll": {
+            "assemblyVersion": "9.0.20251.1069",
+            "fileVersion": "9.0.20251.1069"
+          }
+        }
+      },
+      "C1.WPF.TreeView/9.0.20251.1069": {
+        "runtime": {
+          "C1.WPF.TreeView.dll": {
+            "assemblyVersion": "9.0.20251.1069",
+            "fileVersion": "9.0.20251.1069"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JarvixMapGenerator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ArcGIS.Core/13.7.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ArcGIS.Desktop.Framework/13.7.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ArcGIS.Desktop.Bars.Wpf/25.1.2.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lucene.Net/4.8.0.2": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lucene.Net.Analysis.Common/4.8.0.2": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lucene.Net.QueryParser/4.8.0.2": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ArcGIS.Desktop.Shared.Wpf/25.1.2.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ArcGIS.Desktop.Docking.Wpf/25.1.2.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Google.Protobuf/3.29.3.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/13.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ArcGIS.Desktop.Editors.Wpf/25.1.2.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Xaml.Behaviors/1.1.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Web.WebView2.Wpf/1.0.2277.86": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Web.WebView2.Core/1.0.2277.86": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ArcGIS.Desktop.Navigation.Wpf/25.1.2.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ArcGIS.Desktop.Ribbon.Wpf/25.1.2.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ArcGIS.Desktop.SyntaxEditor.Wpf/25.1.2.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "C1.WPF.Grid/9.0.20251.1069": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "C1.WPF.Core/9.0.20251.1069": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ArcGIS.DocCenter.Utils/13.7.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "J2N/2.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ArcGIS.Desktop.Text.Wpf/25.1.2.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "C1.DataCollection/9.0.20242.209": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "C1.WPF.GridControl/9.0.20251.1069": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "C1.WPF.Input/9.0.20251.1069": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "C1.WPF.Menu/9.0.20251.1069": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "C1.WPF.DataFilter/9.0.20251.1069": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "C1.WPF.DateTimeEditors/9.0.20251.1069": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "C1.WPF.Accordion/9.0.20251.1069": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "C1.WPF.DataCollection/9.0.20242.209": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "C1.DataCollection.BindingList/9.0.20242.209": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "YamlDotNet/16.3.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "C1.WPF.ListView/9.0.20251.1069": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "C1.WPF.TreeView/9.0.20251.1069": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

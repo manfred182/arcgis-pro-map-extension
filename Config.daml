@@ -1,0 +1,35 @@
+<daml xmlns="http://schemas.esri.com/DADF/Registry">
+  <AddInInfo id="{A8B55A95-B08E-4D30-9F46-B28DA66F5222}" version="1.0" desktopVersion="3.0.0">
+    <Name>JarvixMapGenerator</Name>
+    <Description>Automatizacion de exportacion de mapas prediales.</Description>
+    <Image>Images\AddinDesktop32.png</Image>
+    <Author>Jarvix</Author>
+    <Company>Jarvix</Company>
+    <Date>5/27/2026 2:49:00 PM</Date>
+    <Subject>Framework</Subject>
+  </AddInInfo>
+  <modules>
+    <insertModule id="JarvixMapGenerator_Module" className="Module1" autoLoad="false" caption="Module1">
+      <tabs>
+        <tab id="Jarvix_Tab" caption="JARVIX SIG TOOLS">
+          <group refID="Jarvix_Group" />
+        </tab>
+      </tabs>
+      <groups>
+        <group id="Jarvix_Group" caption="Automatizacion">
+          <button refID="JarvixMapGenerator_GenerarMapasButton" size="large" />
+        </group>
+      </groups>
+      <controls>
+        <button id="JarvixMapGenerator_GenerarMapasButton"
+                caption="Generar Mapas"
+                className="GenerarMapasButton"
+                loadOnClick="true"
+                smallImage="Images\GenericButton16.png"
+                largeImage="Images\GenericButton32.png">
+          <tooltip heading="Generar mapas PDF">Ejecuta el script ArcPy para exportar la serie de mapas.</tooltip>
+        </button>
+      </controls>
+    </insertModule>
+  </modules>
+</daml>
